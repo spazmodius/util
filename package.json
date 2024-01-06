@@ -1,0 +1,7 @@
+{
+  "name": "@spazmodius/util",
+  "version": "1.0.0",
+  "description": "Spaz's utility functions",
+  "repository": "github:spazmodius/util",
+  "main": "index.js"
+}
